@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Puzonne\\Documents\\new-game-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F935DCC-EDCD-4436-8E24-768F1C96A282}|..\\Paper\\Paper.csproj|c:\\users\\puzonne\\documents\\paper\\paperhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|c:\\users\\puzonne\\documents\\new-game-project\\scripts\\multiplayerstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|solutionrelative:scripts\\multiplayerstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|c:\\users\\puzonne\\documents\\new-game-project\\scripts\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|solutionrelative:scripts\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|c:\\users\\puzonne\\documents\\new-game-project\\scripts\\multiplayermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|solutionrelative:scripts\\multiplayermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F935DCC-EDCD-4436-8E24-768F1C96A282}|..\\Paper\\Paper.csproj|c:\\users\\puzonne\\documents\\paper\\models\\papergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|c:\\users\\puzonne\\documents\\new-game-project\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|solutionrelative:scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|c:\\users\\puzonne\\documents\\new-game-project\\scripts\\cardplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}|New Game Project.csproj|solutionrelative:scripts\\cardplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaperHub.cs",
+              "DocumentMoniker": "C:\\Users\\Puzonne\\Documents\\Paper\\PaperHub.cs",
+              "RelativeDocumentMoniker": "..\\Paper\\PaperHub.cs",
+              "ToolTip": "C:\\Users\\Puzonne\\Documents\\Paper\\PaperHub.cs",
+              "RelativeToolTip": "..\\Paper\\PaperHub.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:37:07.925Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiplayerStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\MultiplayerStateManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\MultiplayerStateManager.cs",
+              "ToolTip": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\MultiplayerStateManager.cs",
+              "RelativeToolTip": "Scripts\\MultiplayerStateManager.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwJgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:02:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardManager.cs",
+              "DocumentMoniker": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\CardManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\CardManager.cs",
+              "ToolTip": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\CardManager.cs",
+              "RelativeToolTip": "Scripts\\CardManager.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAuwJoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:15:03.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardPlace.cs",
+              "DocumentMoniker": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\CardPlace.cs",
+              "RelativeDocumentMoniker": "Scripts\\CardPlace.cs",
+              "ToolTip": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\CardPlace.cs",
+              "RelativeToolTip": "Scripts\\CardPlace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:06:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Scripts\\Card.cs",
+              "ToolTip": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\Card.cs",
+              "RelativeToolTip": "Scripts\\Card.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:43:09.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiplayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\MultiplayerManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\MultiplayerManager.cs",
+              "ToolTip": "C:\\Users\\Puzonne\\Documents\\new-game-project\\Scripts\\MultiplayerManager.cs",
+              "RelativeToolTip": "Scripts\\MultiplayerManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:13:53.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaperGame.cs",
+              "DocumentMoniker": "C:\\Users\\Puzonne\\Documents\\Paper\\Models\\PaperGame.cs",
+              "RelativeDocumentMoniker": "..\\Paper\\Models\\PaperGame.cs",
+              "ToolTip": "C:\\Users\\Puzonne\\Documents\\Paper\\Models\\PaperGame.cs",
+              "RelativeToolTip": "..\\Paper\\Models\\PaperGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:09:44.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

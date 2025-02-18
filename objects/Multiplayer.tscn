@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bliun12xk76s"]
+
+[ext_resource type="Script" path="res://Scripts/MultiplayerManager.cs" id="1_244c5"]
+
+[node name="Multiplayer" type="Node"]
+script = ExtResource("1_244c5")

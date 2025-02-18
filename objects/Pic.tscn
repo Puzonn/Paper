@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://fgo8t5x6wned"]
+
+[ext_resource type="Texture2D" uid="uid://moh2xjmvxepn" path="res://Assets/pic.png" id="1_otwvj"]
+
+[node name="Pic" type="Sprite2D"]
+position = Vector2(484, 436)
+scale = Vector2(0.635, 0.635)
+texture = ExtResource("1_otwvj")

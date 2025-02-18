@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Game Project", "New Game Project.csproj", "{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paper", "..\Paper\Paper.csproj", "{9F935DCC-EDCD-4436-8E24-768F1C96A282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paper.Shared", "..\Paper.Shared\Paper.Shared.csproj", "{A9E3DD87-FE54-425F-8C63-C441D56F8D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{F0FA3C48-8BA2-4CE3-9806-186C73ADB804}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{9F935DCC-EDCD-4436-8E24-768F1C96A282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F935DCC-EDCD-4436-8E24-768F1C96A282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F935DCC-EDCD-4436-8E24-768F1C96A282}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F935DCC-EDCD-4436-8E24-768F1C96A282}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{9F935DCC-EDCD-4436-8E24-768F1C96A282}.ExportRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{9F935DCC-EDCD-4436-8E24-768F1C96A282}.ExportRelease|Any CPU.Build.0 = Release|Any CPU
+		{A9E3DD87-FE54-425F-8C63-C441D56F8D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E3DD87-FE54-425F-8C63-C441D56F8D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E3DD87-FE54-425F-8C63-C441D56F8D3E}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E3DD87-FE54-425F-8C63-C441D56F8D3E}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E3DD87-FE54-425F-8C63-C441D56F8D3E}.ExportRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E3DD87-FE54-425F-8C63-C441D56F8D3E}.ExportRelease|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
